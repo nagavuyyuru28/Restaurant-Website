@@ -1,6 +1,7 @@
-### Project-Restaurant
+# Project-Restaurant
 
-A React-Redux powered website of a restaurant developed using JavaScript ES6. It allows the users to register and login and browse through the menu of the restaurant and give reviews to the dishes. It enables the users to reserve a table by filling the details.
+A React-Redux powered website of a restaurant developed using JavaScript ES6. 
+It allows the users to register and login and browse through the menu of the restaurant and give reviews to the dishes. Also, the application enables the users to reserve a table by filling the details.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
